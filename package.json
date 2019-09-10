@@ -1,21 +1,27 @@
 {
-    "name": "gottschalg-theme",
-    "displayName": "Gottschalg Theme",
-    "description": "Gottschalg color theme",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Gottschalg Theme",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Gottschalg Theme-color-theme.json"
-            }
-        ]
-    }
+  "name": "gottschalg-theme",
+  "displayName": "Gottschalg Theme",
+  "description": "Gottschalg color theme",
+  "version": "0.0.1",
+  "publisher": "gottschalg",
+  "engines": {
+    "vscode": "^1.38.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://github.com/igorgottschalg/Gottschalg-vscode-theme/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/igorgottschalg/Gottschalg-vscode-theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gottschalg Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Gottschalg Theme-color-theme.json"
+      }
+    ]
+  }
 }
