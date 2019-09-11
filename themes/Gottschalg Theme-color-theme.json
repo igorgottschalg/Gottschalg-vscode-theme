@@ -52,12 +52,12 @@
     "editorHoverWidget.background": "#191b29",
     "editorHoverWidget.border": "#191b29",
     "editorHoverWidget.statusBarBackground": "#191b29",
-    "editorIndentGuide.activeBackground": "#757575",
-    "editorIndentGuide.background": "#191b29",
+    "editorIndentGuide.activeBackground": "#282b42",
+    "editorIndentGuide.background": "#282b42",
     "editorLineNumber.activeForeground": "#BDBDBD",
-    "editorLineNumber.foreground": "#757575",
+    "editorLineNumber.foreground": "#282b42",
     "editorLink.activeForeground": "#663399",
-    "editorOverviewRuler.border": "#222435",
+    "editorOverviewRuler.border": "#282b42",
     "editorOverviewRuler.commonContentForeground": "#191b29",
     "editorOverviewRuler.currentContentForeground": "#009688",
     "editorOverviewRuler.errorForeground": "#F44336",
@@ -83,7 +83,7 @@
     "imagePreview.border": "#607D8B59",
     "input.background": "#191b29",
     "input.foreground": "#FFFFFF",
-    "input.placeholderForeground": "#BDBDBD",
+    "input.placeholderForeground": "#64647a",
     "inputOption.activeBackground": "#191b29",
     "inputOption.activeBorder": "#663399",
     "inputValidation.errorBackground": "#795548",
@@ -134,6 +134,7 @@
     "pickerGroup.foreground": "#663399",
     "progressBar.background": "#663399",
     "quickInput.background": "#191b29",
+    "quickInput.foreground": "#FFFFFF",
     "scrollbar.shadow": "#000000",
     "scrollbarSlider.activeBackground": "#BDBDBD66",
     "scrollbarSlider.background": "#75757566",
@@ -149,7 +150,7 @@
     "statusBar.background": "#191b29",
     "statusBar.border": "#1e1f30",
     "statusBar.foreground": "#FFFFFF",
-    "statusBar.noFolderBackground": "#673AB7",
+    "statusBar.noFolderBackground": "#191b29",
     "statusBar.noFolderForeground": "#FFFFFF",
     "statusBarItem.activeBackground": "#FFFFFF2E",
     "statusBarItem.hoverBackground": "#FFFFFF1F",
@@ -177,9 +178,9 @@
     "textLink.foreground": "#00F0B5",
     "textPreformat.foreground": "#FF9800",
     "textSeparator.foreground": "#FFFFFF2E",
-    "titleBar.activeBackground": "#424242",
-    "titleBar.activeForeground": "#BDBDBD",
-    "titleBar.inactiveBackground": "#42424299",
+    "titleBar.activeBackground": "#191b29",
+    "titleBar.activeForeground": "#FFFFFF",
+    "titleBar.inactiveBackground": "#191b29",
     "titleBar.inactiveForeground": "#BDBDBD99",
     "widget.shadow": "#000000"
   },
@@ -541,7 +542,7 @@
     {
       "name": "[JAVASCRIPT] - Color for Inherited Component",
       "scope": [
-        "entity.other.inherited-class"
+        ""
       ],
       "settings": {
         "foreground": "#FFEE80"
@@ -1448,7 +1449,14 @@
         "markup.italic.markdown",
         "text.jade entity.other.attribute-name.tag",
         "keyword.control.from.js",
-        "entity.other.attribute-name.tag.pug"
+        "entity.other.attribute-name.tag.pug",
+        "storage.type.extends.js",
+        "keyword",
+        "storage.type.class.js",
+        "storage.type.class.jsdoc",
+        "variable.language",
+        "entity.name.type.class.js",
+        "entity.other.inherited-class"
       ],
       "settings": {
         "fontStyle": "italic"

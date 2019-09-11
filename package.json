@@ -5,9 +5,6 @@
     "version": "0.1.1",
     "publisher": "gottschalg",
     "license": "MIT",
-    "engines": {
-        "vscode": "^1.38.0"
-    },
     "maintainers": [
         "Igor Gottschalg <igor@gottschalg.mobi>"
     ],
@@ -48,7 +45,7 @@
         ]
     },
     "extensionDependencies": [
-        "be5invis.vscode-custom-css",
+        "naumovs.color-highlight",
         "2gua.rainbow-brackets"
     ],
     "scripts": {
