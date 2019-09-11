@@ -2,12 +2,15 @@
     "name": "gottschalg-theme",
     "displayName": "Gottschalg Theme",
     "description": "Gottschalg color theme",
-    "version": "0.1.1",
+    "version": "0.1.2",
     "publisher": "gottschalg",
     "license": "MIT",
     "maintainers": [
         "Igor Gottschalg <igor@gottschalg.mobi>"
     ],
+    "engines": {
+        "vscode": "^1.32.0"
+    },
     "categories": [
         "Themes"
     ],
