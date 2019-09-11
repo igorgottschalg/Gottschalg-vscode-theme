@@ -48,7 +48,8 @@
         ]
     },
     "extensionDependencies": [
-        "be5invis.vscode-custom-css"
+        "be5invis.vscode-custom-css",
+        "2gua.rainbow-brackets"
     ],
     "scripts": {
         "vscode:prepublish": "npm run compile",
