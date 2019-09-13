@@ -2,7 +2,7 @@
     "name": "gottschalg-theme",
     "displayName": "Gottschalg Theme",
     "description": "Gottschalg color theme",
-    "version": "0.1.3",
+    "version": "0.1.4",
     "publisher": "gottschalg",
     "license": "MIT",
     "maintainers": [
@@ -31,7 +31,7 @@
     ],
     "icon": "icon.png",
     "galleryBanner": {
-        "color": "#3c4557",
+        "color": "#663399",
         "theme": "dark"
     },
     "contributes": {

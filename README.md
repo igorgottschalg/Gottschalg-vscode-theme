@@ -11,7 +11,7 @@ Theme base on dark purple colors based on night owl code colors.
 - Install Visual Studio Code
 - Launch Visual Studio Code
 - Choose Extensions from menu
-- Search for night-owl
+- Search for Gottschalg Theme
 - Click Install to install it
 - Click Reload to reload the Code
 - From the menu bar click: Code > Preferences > Color Theme > Gottschalg Theme

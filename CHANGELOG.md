@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.1.4
+- [x] Fix the Read me
+- [x] Change MarketPlace banner color
+  
 ## 0.1.3
 - [x] Fix the Read me
 - [x] QuickPick search foreground
