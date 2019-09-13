@@ -1,9 +1,0 @@
-.monaco-action-bar.vertical .actions-container {
-    display: flex;
-    flex-direction: column;
-}
-
-.monaco-workbench .activitybar>.content .monaco-action-bar .action-item {
-    width: 20px;
-    display: inline-block;
-}
